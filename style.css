@@ -3,7 +3,7 @@ body,html {
     padding: 0;
 }
 .Mother{
-    background-image: url(./assets/home/background-home-desktop.jpg);
+    background-image: url(starter-code/assets/home/background-home-desktop.jpg);
     margin: 0 ;
     max-width: 1440px;
     position: relative;
@@ -306,9 +306,9 @@ body,html {
     display: none;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 450px) {
     .Mother{
-        background-image: url(./assets/home/background-home-mobile.jpg);
+        background-image: url(starter-code/assets/home/background-home-mobile.jpg);
         margin: 0;
     }
     .MobileMenu{
